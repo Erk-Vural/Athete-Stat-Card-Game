@@ -1,0 +1,14 @@
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Release\CardGame 1.2.exe.config
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Release\CardGame 1.2.exe
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Release\CardGame 1.2.pdb
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.csprojAssemblyReference.cache
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame_1._2.Properties.Resources.resources
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame_1._2.Test.resources
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.csproj.GenerateResource.cache
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.csproj.CoreCompileInputs.cache
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.exe
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.pdb
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Release\CardGame 1.2.exe.manifest
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Release\CardGame 1.2.application
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.exe.manifest
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Release\CardGame 1.2.application

@@ -1,0 +1,9 @@
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Debug\CardGame 1.2.exe.config
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Debug\CardGame 1.2.exe
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\bin\Debug\CardGame 1.2.pdb
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame_1._2.Properties.Resources.resources
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame_1._2.Test.resources
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame 1.2.csproj.GenerateResource.cache
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame 1.2.csproj.CoreCompileInputs.cache
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame 1.2.exe
+C:\Users\erkbu\Desktop\CODES & MORE\Dersler\Pro Lab-I\Proje-II\CardGame 1.2\CardGame 1.2\obj\Debug\CardGame 1.2.pdb
