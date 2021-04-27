@@ -1,2 +1,2 @@
 # CardGame
-a athlete card game using OPP and C#
+A athlete card game using OPP and C#
